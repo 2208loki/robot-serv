@@ -2,7 +2,6 @@
 *******************************
 *
 *        		===============================================
-*           		Rapid Rescuer (RR) Theme (eYRC 2019-20)
 *        		===============================================
 *
 *  This script is to implement Task 1B of Rapid Rescuer (RR) Theme (eYRC 2019-20).
